@@ -34,7 +34,7 @@
     "event-kit": "^1.0.2",
     "first-mate": "^3.0.0",
     "fs-plus": "^2.5",
-    "fstream": "0.1.24",
+    "fstream": "1.0.12",
     "fuzzaldrin": "^2.1",
     "git-utils": "^3.0.0",
     "grim": "1.1.2",
