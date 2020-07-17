@@ -28,7 +28,7 @@
     "minidump": "~0.8",
     "npm": "~1.4.5",
     "rcedit": "~0.3.0",
-    "request": "~2.27.0",
+    "request": "~2.88.2",
     "rimraf": "~2.2.2",
     "runas": "^2",
     "tello": "1.0.4",
